@@ -15,10 +15,11 @@ A seasoned Android developer with over 6 years of experience in crafting high-pe
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 33 mins          ███████████████████████░░   91.48 %
-Bash     6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Other    2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       1 hr 48 mins          ██████████████████████▒░░   89.10 %
+Bash         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+JavaScript   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
