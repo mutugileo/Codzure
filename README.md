@@ -15,10 +15,7 @@ A seasoned Android developer with over 6 years of experience in crafting high-pe
 <!--START_SECTION:waka-->
 
 ```txt
-Dart    5 hrs 48 mins         ███████████████████████▓░   94.19 %
-YAML    20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-JSON    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Dart   43 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
