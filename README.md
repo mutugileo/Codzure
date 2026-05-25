@@ -15,7 +15,7 @@ A seasoned Android developer with over 6 years of experience in crafting high-pe
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   43 mins               █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
