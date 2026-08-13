@@ -15,11 +15,11 @@ A seasoned Android developer with over 6 years of experience in crafting high-pe
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        7 hrs 58 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-Dart              7 hrs 18 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
-HTML              3 hrs 26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Other             3 hrs 21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Markdown          3 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+Dart              11 hrs 2 mins         ██████████▒░░░░░░░░░░░░░░   40.99 %
+JavaScript        5 hrs 37 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+HTML              3 hrs 24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+TypeScript        2 hrs 18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Other             1 hr 31 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
